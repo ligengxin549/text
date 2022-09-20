@@ -1,0 +1,11 @@
+.res {
+  margin: 0 auto;
+  margin-top: 50vw;
+  width: 90%;
+  height: 15vw;
+  line-height: 15vw;
+  text-align: center;
+  font-size: 5vw;
+  color: #fff;
+  background-color: green;
+}

@@ -1,0 +1,1 @@
+<view><view class="res" bindtap="{{a}}">查看测试效果</view></view>
