@@ -200,8 +200,7 @@ let agree = ref(false);
     flex-wrap: wrap;
     >view {
       margin: 3vw 0;
-      border: 0.5vw solid #000;
-      width: 32%;
+      width: 33%;
       height: 53vw;
       display: flex;
       justify-content: center;
